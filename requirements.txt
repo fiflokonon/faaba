@@ -27,7 +27,6 @@ py==1.11.0
 PyAutoGUI==0.9.53
 pycairo==1.16.2
 PyGetWindow==0.0.9
-PyGObject==3.38.0
 PyJWT==1.7.1
 PyMsgBox==1.0.9
 pyparsing==3.0.9
