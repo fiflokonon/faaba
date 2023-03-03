@@ -37,7 +37,6 @@ pyperclip==1.8.2
 PyRect==0.2.0
 PyScreeze==0.1.28
 pytest==6.2.2
-python-apt==2.2.1+parrot1
 python-debian==0.1.39
 python3-xlib==0.15
 pytweening==1.0.4
